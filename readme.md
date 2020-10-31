@@ -1,11 +1,5 @@
-# React demo
+# Redux persist
 
 ## What we will cover
 
-- 1
-- 2
-- 3
-
-## Notes
-
-Some notes
+- How to persist redux state
